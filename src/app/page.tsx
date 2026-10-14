@@ -276,7 +276,7 @@ export default function Home() {
       <main className="flex-1 max-w-6xl w-full mx-auto px-4 sm:px-6 py-12 sm:py-16 space-y-6">
         <div className="space-y-2 text-center max-w-2xl mx-auto">
           <h1 className="text-3xl sm:text-4xl font-bold tracking-tight text-white">
-            Smart Image Compressor
+            Quzex
           </h1>
           <p className="text-sm text-zinc-400">
             Target exact file sizes with intelligent multi-pass optimization. Zero server uploads.

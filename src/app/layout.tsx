@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Kompakt — Minimalist Image Compressor',
+  title: 'Quzex — Minimalist Image Compressor',
   description: 'Fast, secure client-side image compression. Target exact file sizes, convert formats, and optimize image quality with zero server uploads.',
-  keywords: ['image compressor', 'webp converter', 'shrink image size', 'client-side compression', 'optimize photos'],
+  keywords: ['quzex', 'image compressor', 'webp converter', 'shrink image size', 'client-side compression', 'optimize photos'],
 };
 
 export default function RootLayout({

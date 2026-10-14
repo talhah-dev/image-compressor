@@ -7,10 +7,10 @@ export const Header: React.FC = () => {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
         <div className="flex items-center gap-3">
           <div className="h-9 w-9 rounded-xl bg-gradient-to-tr from-indigo-500 to-violet-500 flex items-center justify-center shadow-lg shadow-indigo-500/20 text-white font-semibold text-lg tracking-tight">
-            K
+            Q
           </div>
           <div className="flex items-baseline gap-2">
-            <span className="font-semibold text-lg tracking-tight text-white">Kompakt</span>
+            <span className="font-semibold text-lg tracking-tight text-white">Quzex</span>
             <span className="text-xs text-zinc-500 font-mono">v1.0</span>
           </div>
         </div>
